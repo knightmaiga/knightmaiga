@@ -4,7 +4,7 @@
 
 Skills: Tensorflow / Pytorch / Python / R / Power BI/Tableau/Sckitlearn/EDA/Data Analysis/Computer vision/NLP/CART/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
