@@ -4,11 +4,10 @@
 
 Skills: Tensorflow / Pytorch / Python / R / Power BI/Tableau/Sckitlearn/EDA/pymongo/Computer vision/NLP/CART/
 
-# Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=knightmaiga&color=blue)
 
-Welcome to my GitHub profile! Here, you can find my projects and contributions.
+
 
 
 
